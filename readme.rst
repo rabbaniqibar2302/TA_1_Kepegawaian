@@ -19,9 +19,9 @@ FITUR
 ANGGOTA
 **************************
 
-Abdul Azis - 10200012</br>
-Tomi Prasetyo - 10200005</br>
-Muhammad Rizqi Akbar Rabbani - 10200067</br>
+- Abdul Azis - 10200012
+- Tomi Prasetyo - 10200005
+- Muhammad Rizqi Akbar Rabbani - 10200067
 
 *******
 License
